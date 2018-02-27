@@ -57,3 +57,7 @@
 - [ ] [How a Kalman filter works, in pictures](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 
 
+### Welcome to follow our official accounts： **机器学习全栈工程师（Jeemy110）** 
+ 
+
+![](https://github.com/Jack-Cherish/Pictures/raw/master/gzh.jpg)
