@@ -15,8 +15,7 @@
   - [bugman123](http://www.bugman123.com/index.html)
   - [BetterExplained – Math lessons for lasting insight.](https://betterexplained.com/)
   - [Machine Learning Mastery](https://machinelearningmastery.com/blog/)
-  - [Song-Chun Zhu's Blog](http://www.stat.ucla.edu/%7Esczhu/research_blog.html)
-  - 
+  - [Song-Chun Zhu's Blog](http://www.stat.ucla.edu/%7Esczhu/research_blog.html)  
   
 - Papers
   - [CVPapers](http://www.cvpapers.com/)
