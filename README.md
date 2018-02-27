@@ -6,8 +6,12 @@
   - [Analytics Vidhya](https://www.analyticsvidhya.com/)
   - [Towards Data Science](https://towardsdatascience.com/)
   - [TechCrunch](https://techcrunch.com/)
-  - [Medium](https://medium.com/topic/technology)
+  - [DataTau](http://www.datatau.com/)  
   - [Quora](https://www.quora.com/)
+  - [MachineLearning@reddit](https://www.reddit.com/r/MachineLearning/)
+  - [computervision@reddit](https://www.reddit.com/r/computervision/)
+  - [Medium](https://medium.com/topic/technology)
+  - [Discussion@kaggle](https://www.kaggle.com/discussion)
   
 - Blogs
   - [AI Shack](http://aishack.in/)
@@ -57,7 +61,7 @@
 - [ ] [How a Kalman filter works, in pictures](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 
 
-### Welcome to follow our official accounts： **机器学习全栈工程师（Jeemy110）** 
+### Finally, welcome to follow our official accounts： **机器学习全栈工程师（Jeemy110）** 
  
 
 ![](https://github.com/Jack-Cherish/Pictures/raw/master/gzh.jpg)
