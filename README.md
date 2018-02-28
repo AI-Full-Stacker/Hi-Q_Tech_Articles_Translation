@@ -59,6 +59,8 @@
 
 
 # To Be Translated
+- [ ] [Review of Deep Learning Algorithms for Image Classification
+](https://medium.com/comet-app/review-of-deep-learning-algorithms-for-image-classification-5fdbca4a05e2)
 - [ ] [How a Kalman filter works, in pictures](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 
 
