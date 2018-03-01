@@ -20,6 +20,7 @@
   - [BetterExplained – Math lessons for lasting insight](https://betterexplained.com/)
   - [Machine Learning Mastery](https://machinelearningmastery.com/blog/)
   - [python Programming](https://pythonprogramming.net/)
+  - [py imagesearch](https://www.pyimagesearch.com/)
   - [Song-Chun Zhu's Blog](http://www.stat.ucla.edu/%7Esczhu/research_blog.html)  
   
 - Papers
