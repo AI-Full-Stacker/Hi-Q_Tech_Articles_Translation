@@ -16,6 +16,7 @@
 - Blogs
   - [AI Shack](http://aishack.in/)
   - [MAREK REI](http://www.marekrei.com/blog/)
+  - [deepsense.ai](https://blog.deepsense.ai/)
   - [bugman123](http://www.bugman123.com/index.html)
   - [BetterExplained – Math lessons for lasting insight](https://betterexplained.com/)
   - [Machine Learning Mastery](https://machinelearningmastery.com/blog/)
