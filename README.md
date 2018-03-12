@@ -62,6 +62,12 @@
 
 
 # To Be Translated
+- [ ] [10 Things to Think About Before Starting to Code Your Deep Neural Network](https://towardsdatascience.com/10-things-to-think-about-before-starting-to-code-your-deep-neural-network-65094a1e7c08)
+- [ ] [Only Numpy: Implementing Mini VGG (VGG 7) and SoftMax Layer with Interactive Code](https://towardsdatascience.com/only-numpy-implementing-mini-vgg-vgg-7-and-softmax-layer-with-interactive-code-8994719bcca8)
+- [ ] [Deep Learning Model Compression for Image Analysis: Methods and Architectures](https://medium.com/comet-app/deep-learning-model-compression-for-image-analysis-methods-and-architectures-398f82b0c06f)
+- [ ] [A Tour of The Top 10 Algorithms for Machine Learning Newbies](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)
+- [ ] [Using Deep Learning to improve FIFA 18 graphics](https://towardsdatascience.com/using-deep-learning-to-improve-fifa-18-graphics-529ec44ea37e)
+- [ ] [Detecting Objects in (almost) Real-time: FasterRCNN Explained with Code](https://towardsdatascience.com/fasterrcnn-explained-part-1-with-code-599c16568cff)
 - [ ] [Review of Deep Learning Algorithms for Image Classification
 ](https://medium.com/comet-app/review-of-deep-learning-algorithms-for-image-classification-5fdbca4a05e2)
 - [ ] [HistoryOfObjectRecognition Pic](https://github.com/Nikasa1889/HistoryObjectRecognition/blob/master/HistoryOfObjectRecognition.png)
