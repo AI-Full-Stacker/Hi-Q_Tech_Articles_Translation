@@ -20,6 +20,7 @@
   - [bugman123](http://www.bugman123.com/index.html)
   - [BetterExplained – Math lessons for lasting insight](https://betterexplained.com/)
   - [Machine Learning Mastery](https://machinelearningmastery.com/blog/)
+  - [machine Intelligence for humans](http://www.hackevolve.com/)
   - [python Programming](https://pythonprogramming.net/)
   - [py imagesearch](https://www.pyimagesearch.com/)
   - [tryolabs blog](https://tryolabs.com/blog/)
