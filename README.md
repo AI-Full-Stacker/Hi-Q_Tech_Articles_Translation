@@ -62,7 +62,7 @@
 - Others
 
 
-# To Be Translated  
+# 待翻译推荐文章  
 - [ ] [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
 - [ ] [10 Things to Think About Before Starting to Code Your Deep Neural Network](https://towardsdatascience.com/10-things-to-think-about-before-starting-to-code-your-deep-neural-network-65094a1e7c08)
 - [ ] [Only Numpy: Implementing Mini VGG (VGG 7) and SoftMax Layer with Interactive Code](https://towardsdatascience.com/only-numpy-implementing-mini-vgg-vgg-7-and-softmax-layer-with-interactive-code-8994719bcca8)
