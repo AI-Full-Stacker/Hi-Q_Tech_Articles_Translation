@@ -14,6 +14,8 @@
   - [Discussion@kaggle](https://www.kaggle.com/discussion)
   
 - Blogs
+  - [Machine Learning (Theory)](http://hunch.net/)
+  - [Hello Paperspace](https://blog.paperspace.com/)
   - [AI Shack](http://aishack.in/)
   - [MAREK REI](http://www.marekrei.com/blog/)
   - [deepsense.ai](https://blog.deepsense.ai/)
