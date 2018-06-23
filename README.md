@@ -30,6 +30,7 @@
   
 - Papers
   - [CVPapers](http://www.cvpapers.com/)
+  - [Papers with Code](https://paperswithcode.com/)
   - [Arxiv: Artificial Intelligence ](https://arxiv.org/list/cs.AI/recent)
   - [Arxiv: Computer Vision and Pattern Recognition ](https://arxiv.org/list/cs.CV/recent)
   - [Arxiv: Computation and Language ](https://arxiv.org/list/cs.CL/recent)  
