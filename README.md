@@ -68,7 +68,7 @@
 # 待翻译推荐文章 
 - [ ] [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
 - [ ] [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
-- [ ] [10 Things to Think About Before Starting to Code Your Deep Neural Network](https://towardsdatascience.com/10-things-to-think-about-before-starting-to-code-your-deep-neural-network-65094a1e7c08)
+- [ Translating...] [10 Things to Think About Before Starting to Code Your Deep Neural Network](https://towardsdatascience.com/10-things-to-think-about-before-starting-to-code-your-deep-neural-network-65094a1e7c08)
 - [ ] [Only Numpy: Implementing Mini VGG (VGG 7) and SoftMax Layer with Interactive Code](https://towardsdatascience.com/only-numpy-implementing-mini-vgg-vgg-7-and-softmax-layer-with-interactive-code-8994719bcca8)
 - [ ] [Deep Learning Model Compression for Image Analysis: Methods and Architectures](https://medium.com/comet-app/deep-learning-model-compression-for-image-analysis-methods-and-architectures-398f82b0c06f)
 - [ ] [A Tour of The Top 10 Algorithms for Machine Learning Newbies](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)
