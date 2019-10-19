@@ -28,6 +28,7 @@
   - [tryolabs blog](https://tryolabs.com/blog/)
   - [Song-Chun Zhu's Blog](http://www.stat.ucla.edu/%7Esczhu/research_blog.html)
   - [Google AI Blog](https://ai.googleblog.com)
+  - [Facebook Ai Blog](https://ai.facebook.com/blog)
   
 - Papers
   - [CVPapers](http://www.cvpapers.com/)
